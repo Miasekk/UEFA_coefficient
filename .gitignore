@@ -1,0 +1,18 @@
+# Środowisko i sekrety (BARDZO WAŻNE)
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook śmieci
+.ipynb_checkpoints/
+
+# dbt generowane pliki
+dbt_uefa/target/
+dbt_uefa/logs/
+dbt_uefa/dbt_packages/
+
+# IDE i system
+.idea/
+.vscode/
+*.log
