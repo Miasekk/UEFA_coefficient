@@ -1,0 +1,9 @@
+version: 2
+sources:
+  - name: staging
+    schema: raw
+    tables:
+      - name: all_european_competition_matches
+      - name: champions_league_matches
+      - name: conference_league_matches
+      - name: europa_league_matches
