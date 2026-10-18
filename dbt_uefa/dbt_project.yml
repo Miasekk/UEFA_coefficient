@@ -33,3 +33,7 @@ models:
   dbt_uefa:
     staging:
       +materialized: view
+
+seeds:
+  dbt_uefa:
+    +schema: reference
