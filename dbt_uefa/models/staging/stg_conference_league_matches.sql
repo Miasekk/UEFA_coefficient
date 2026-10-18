@@ -1,6 +1,9 @@
-{{ config(materialized='table') }}
+{{ config(
+    materialized='table',
+    schema='staging'
+) }}
 
 SELECT
     *
 FROM
-    {{ source('staging', 'conference_league_matches') }}
+    {{ source('raw', 'conference_league_matches') }}
