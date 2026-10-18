@@ -1,13 +1,13 @@
-valid_from_season_starting_on,valid_to_season_starting_on,competition,round,win_pts,draw_pts,lose_pts,eliminated_at_this_stage_points,extra_point_for_reaching
+valid_from_season_starting_on,valid_to_season_starting_on,competition,round,win_pts,draw_pts,lose_pts,eliminated_at_this_stage_points,extra_points_for_reaching
 2024,2027,Champions League,Final,2,1,0,0,1.5
 2024,2027,Conference League,Final,2,1,0,0,0.5
 2024,2027,Europa League,Final,2,1,0,0,1
 2024,2027,Champions League,First qualifying round,1,0.5,0,0,0
 2024,2027,Conference League,First qualifying round,1,0.5,0,1,0
 2024,2027,Europa League,First qualifying round,1,0.5,0,0,0
-2024,2027,Champions League,Knockout phase play-offs,0,0,0,0,0
-2024,2027,Conference League,Knockout phase play-offs,0,0,0,0,0
-2024,2027,Europa League,Knockout phase play-offs,0,0,0,0,0
+2024,2027,Champions League,Knockout phase play-offs,2,1,0,0,0
+2024,2027,Conference League,Knockout phase play-offs,2,1,0,0,0
+2024,2027,Europa League,Knockout phase play-offs,2,1,0,0,0
 2024,2027,Champions League,League phase,2,1,0,0,0
 2024,2027,Conference League,League phase,2,1,0,0,0
 2024,2027,Europa League,League phase,2,1,0,0,0
@@ -37,13 +37,13 @@ valid_from_season_starting_on,valid_to_season_starting_on,competition,round,win_
 2021,2023,Champions League,Group stage,2,1,0,0,4
 2021,2023,Conference League,Group stage,2,1,0,0,0
 2021,2023,Europa League,Group stage,2,1,0,0,0
-2021,2023,Conference League,Knockout round play-offs,0,0,0,0,0
-2021,2023,Europa League,Knockout round play-offs,0,0,0,0,0
+2021,2023,Conference League,Knockout round play-offs,2,1,0,0,0
+2021,2023,Europa League,Knockout round play-offs,2,1,0,0,0
 2021,2023,Champions League,Play-off round,1,0.5,0,0,0
 2021,2023,Conference League,Play-off round,1,0.5,0,2.5,0
 2021,2023,Europa League,Play-off round,1,0.5,0,0,0
-2021,2023,Champions League,Preliminary round � Final,1,0.5,0,0,0
-2021,2023,Champions League,Preliminary round � Semi-finals,1,0.5,0,0,0
+2021,2023,Champions League,Preliminary round — Final,1,0.5,0,0,0
+2021,2023,Champions League,Preliminary round — Semi-finals,1,0.5,0,0,0
 2021,2023,Champions League,Quarter-finals,2,1,0,0,1
 2021,2023,Conference League,Quarter-finals,2,1,0,0,0
 2021,2023,Europa League,Quarter-finals,2,1,0,0,1
